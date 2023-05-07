@@ -1,0 +1,187 @@
+Order ID,Product,Category,Amount,Date,Country,Product,Main Export Product,,Country,Sales in Each City,,Country,Product,Sales in Each City
+1,Shoe,Footwear,"₹ 4,270",6/1/2016,Madhya Pradesh,Compass,24,,Delhi,"₹ 135,715",,Delhi,Compass,"₹ 2,256"
+2,Scale,Stationary,₹ 617,8/1/2016,Madhya Pradesh,Pen,11,,Kerala,"₹ 134,701",,,Pen,"₹ 7,388"
+3,Scale,Stationary,"₹ 8,384",10/1/2016,West Bengal,Pencil,40,,Madhya Pradesh,"₹ 240,418",,,Pencil,"₹ 80,193"
+4,Socks,Footwear,"₹ 2,626",10/1/2016,Uttar Pradesh,Scale,71,,Tamilnadu,"₹ 62,392",,,Scale,"₹ 36,094"
+5,Compass,Stationary,"₹ 3,610",11/1/2016,Madhya Pradesh,Shoe,27,,Telangana,"₹ 113,760",,,Shoe,"₹ 9,104"
+6,Scale,Stationary,"₹ 6,906",16/1/2016,Tamilnadu,Socks,13,,Uttar Pradesh,"₹ 117,971",,,Socks,₹ 680
+7,Pencil,Stationary,"₹ 2,417",16/1/2016,Delhi,Grand Total,186,,West Bengal,"₹ 82,338",,Kerala,Compass,"₹ 21,744"
+8,Pencil,Stationary,"₹ 7,431",16/1/2016,West Bengal,,,,Grand Total,"₹ 887,295",,,Pen,"₹ 5,600"
+9,Scale,Stationary,"₹ 8,250",16/1/2016,Uttar Pradesh,,,,,,,,Pencil,"₹ 17,534"
+10,Shoe,Footwear,"₹ 1,903",20/1/2016,Uttar Pradesh,,,,,,,,Scale,"₹ 42,908"
+11,Pencil,Stationary,"₹ 6,946",24/1/2016,Delhi,,,,,,,,Shoe,"₹ 41,815"
+12,Scale,Stationary,"₹ 2,320",27/1/2016,Kerala,,,,,,,,Socks,"₹ 5,100"
+13,Scale,Stationary,"₹ 2,116",28/1/2016,Madhya Pradesh,,,,,,,Madhya Pradesh,Compass,"₹ 30,932"
+14,Scale,Stationary,"₹ 1,135",30/1/2016,Kerala,,,,,,,,Pen,"₹ 22,363"
+15,Pencil,Stationary,"₹ 1,161",2/2/2016,Madhya Pradesh,,,,,,,,Pencil,"₹ 28,615"
+16,Compass,Stationary,"₹ 2,256",4/2/2016,Delhi,,,,, ,,,Scale,"₹ 95,061"
+17,Scale,Stationary,"₹ 1,004",11/2/2016,Tamilnadu,,,,,,,,Shoe,"₹ 56,284"
+18,Scale,Stationary,"₹ 3,642",14/2/2016,West Bengal,,,,,,,,Socks,"₹ 7,163"
+19,Scale,Stationary,"₹ 4,582",17/2/2016,Madhya Pradesh,,,,,,,Tamilnadu,Compass,"₹ 12,010"
+20,Socks,Footwear,"₹ 3,559",17/2/2016,Kerala,,,,,,,,Pencil,"₹ 10,332"
+21,Shoe,Footwear,"₹ 5,154",17/2/2016,Telangana,,,,,,,,Scale,"₹ 40,050"
+22,Pen,Stationary,"₹ 7,388",18/2/2016,Delhi,,,,,,,Telangana,Compass,"₹ 8,680"
+23,Socks,Footwear,"₹ 7,163",18/2/2016,Madhya Pradesh,,,,,,,,Pen,"₹ 9,186"
+24,Socks,Footwear,"₹ 5,101",20/2/2016,Uttar Pradesh,,,,,,,,Pencil,"₹ 20,634"
+25,Pencil,Stationary,"₹ 7,602",21/2/2016,Delhi,,,,,,,,Scale,"₹ 52,721"
+26,Pen,Stationary,"₹ 1,641",22/2/2016,Madhya Pradesh,,,,,,,,Shoe,"₹ 8,106"
+27,Pencil,Stationary,"₹ 8,892",23/2/2016,Telangana,,,,,,,,Socks,"₹ 14,433"
+28,Pencil,Stationary,"₹ 2,060",29/2/2016,Delhi,,,,,,,Uttar Pradesh,Compass,"₹ 8,887"
+29,Pencil,Stationary,"₹ 6,509",1/3/2016,Delhi,,,,,,,,Pen,"₹ 8,775"
+30,Pencil,Stationary,"₹ 5,718",4/3/2016,Telangana,,,,,,,,Pencil,"₹ 9,082"
+31,Pencil,Stationary,"₹ 7,655",5/3/2016,Madhya Pradesh,,,,,,,,Scale,"₹ 39,686"
+32,Shoe,Footwear,"₹ 9,116",5/3/2016,Kerala,,,,,,,,Shoe,"₹ 21,636"
+33,Scale,Stationary,"₹ 2,795",15/3/2016,Madhya Pradesh,,,,,,,,Socks,"₹ 29,905"
+34,Scale,Stationary,"₹ 5,084",15/3/2016,Madhya Pradesh,,,,,,,West Bengal,Compass,"₹ 19,929"
+35,Shoe,Footwear,"₹ 8,941",15/3/2016,Kerala,,,,,,,,Pen,"₹ 3,767"
+36,Scale,Stationary,₹ 135,19/3/2016,West Bengal,,,,,,,,Pencil,"₹ 24,867"
+37,Scale,Stationary,"₹ 9,400",19/3/2016,Telangana,,,,,,,,Scale,"₹ 33,775"
+38,Socks,Footwear,"₹ 6,045",21/3/2016,Uttar Pradesh,,,,,,,,,
+39,Pencil,Stationary,"₹ 5,820",22/3/2016,Tamilnadu,,,,,,,,,
+40,Compass,Stationary,"₹ 8,887",23/3/2016,Uttar Pradesh,,,,,,,,,
+41,Compass,Stationary,"₹ 6,982",24/3/2016,Madhya Pradesh,,,,,,,,,
+42,Scale,Stationary,"₹ 4,029",26/3/2016,Telangana,,,,,,,,,
+43,Shoe,Footwear,"₹ 3,665",26/3/2016,Uttar Pradesh,,,,,,,,,
+44,Scale,Stationary,"₹ 4,781",29/3/2016,Delhi,,,,,,,,,
+45,Pen,Stationary,"₹ 3,663",30/3/2016,Telangana,,,,,,,,,
+46,Pencil,Stationary,"₹ 6,331",1/4/2016,Delhi,,,,,,,,,
+47,Pencil,Stationary,"₹ 4,364",1/4/2016,West Bengal,,,,,,,,,
+48,Shoe,Footwear,₹ 607,3/4/2016,Kerala,,,,,,,,,
+49,Scale,Stationary,"₹ 1,054",6/4/2016,Tamilnadu,,,,,,,,,
+50,Shoe,Footwear,"₹ 7,659",6/4/2016,Madhya Pradesh,,,,,,,,,
+51,Scale,Stationary,₹ 235,17/4/2016,Madhya Pradesh,,,,,,,,,
+52,Compass,Stationary,"₹ 1,113",18/4/2016,Telangana,,,,,,,,,
+53,Pencil,Stationary,"₹ 1,128",21/4/2016,Madhya Pradesh,,,,,,,,,
+54,Scale,Stationary,"₹ 4,387",23/4/2016,Madhya Pradesh,,,,,,,,,
+55,Pencil,Stationary,"₹ 2,763",25/4/2016,West Bengal,,,,,,,,,
+56,Scale,Stationary,"₹ 7,898",27/4/2016,Kerala,,,,,,,,,
+57,Scale,Stationary,"₹ 2,427",30/4/2016,Delhi,,,,,,,,,
+58,Scale,Stationary,"₹ 8,663",1/5/2016,Tamilnadu,,,,,,,,,
+59,Shoe,Footwear,"₹ 2,789",1/5/2016,Uttar Pradesh,,,,,,,,,
+60,Scale,Stationary,"₹ 4,054",2/5/2016,Madhya Pradesh,,,,,,,,,
+61,Pen,Stationary,"₹ 2,262",2/5/2016,Madhya Pradesh,,,,,,,,,
+62,Pen,Stationary,"₹ 5,600",2/5/2016,Kerala,,,,,,,,,
+63,Scale,Stationary,"₹ 5,787",3/5/2016,Madhya Pradesh,,,,,,,,,
+64,Compass,Stationary,"₹ 6,295",3/5/2016,West Bengal,,,,,,,,,
+65,Scale,Stationary,₹ 474,5/5/2016,Uttar Pradesh,,,,,,,,,
+66,Pencil,Stationary,"₹ 4,325",5/5/2016,Delhi,,,,,,,,,
+67,Scale,Stationary,₹ 592,6/5/2016,Madhya Pradesh,,,,,,,,,
+68,Compass,Stationary,"₹ 4,330",8/5/2016,Madhya Pradesh,,,,,,,,,
+69,Scale,Stationary,"₹ 9,405",8/5/2016,Kerala,,,,,,,,,
+70,Pencil,Stationary,"₹ 7,671",8/5/2016,Delhi,,,,,,,,,
+71,Shoe,Footwear,"₹ 5,791",8/5/2016,Kerala,,,,,,,,,
+72,Scale,Stationary,"₹ 6,007",12/5/2016,West Bengal,,,,,,,,,
+73,Scale,Stationary,"₹ 5,030",14/5/2016,Uttar Pradesh,,,,,,,,,
+74,Shoe,Footwear,"₹ 6,763",14/5/2016,Kerala,,,,,,,,,
+75,Scale,Stationary,"₹ 4,248",15/5/2016,Telangana,,,,,,,,,
+76,Scale,Stationary,"₹ 9,543",16/5/2016,Delhi,,,,,,,,,
+77,Socks,Footwear,"₹ 7,094",16/5/2016,Uttar Pradesh,,,,,,,,,
+78,Shoe,Footwear,"₹ 6,087",18/5/2016,Madhya Pradesh,,,,,,,,,
+79,Pencil,Stationary,"₹ 4,264",19/5/2016,Telangana,,,,,,,,,
+80,Pen,Stationary,"₹ 9,333",20/5/2016,Madhya Pradesh,,,,,,,,,
+81,Pen,Stationary,"₹ 8,775",22/5/2016,Uttar Pradesh,,,,,,,,,
+82,Scale,Stationary,"₹ 5,632",25/5/2016,Madhya Pradesh,,,,,,,,,
+83,Scale,Stationary,"₹ 4,904",25/5/2016,Tamilnadu,,,,,,,,,
+84,Socks,Footwear,"₹ 1,002",25/5/2016,Telangana,,,,,,,,,
+85,Compass,Stationary,"₹ 8,141",26/5/2016,Kerala,,,,,,,,,
+86,Compass,Stationary,"₹ 3,644",26/5/2016,West Bengal,,,,,,,,,
+87,Compass,Stationary,"₹ 1,380",26/5/2016,Telangana,,,,,,,,,
+88,Scale,Stationary,"₹ 5,182",27/5/2016,Madhya Pradesh,,,,,,,,,
+89,Pencil,Stationary,"₹ 2,193",27/5/2016,Delhi,,,,,,,,,
+90,Pen,Stationary,"₹ 3,647",28/5/2016,Madhya Pradesh,,,,,,,,,
+91,Pencil,Stationary,"₹ 4,104",28/5/2016,Madhya Pradesh,,,,,,,,,
+92,Shoe,Footwear,"₹ 7,457",28/5/2016,Madhya Pradesh,,,,,,,,,
+93,Pen,Stationary,"₹ 3,767",29/5/2016,West Bengal,,,,,,,,,
+94,Scale,Stationary,"₹ 3,917",4/6/2016,Madhya Pradesh,,,,,,,,,
+95,Pencil,Stationary,₹ 521,4/6/2016,West Bengal,,,,,,,,,
+96,Pencil,Stationary,"₹ 5,605",10/6/2016,Delhi,,,,,,,,,
+97,Scale,Stationary,"₹ 6,941",20/6/2016,West Bengal,,,,,,,,,
+98,Scale,Stationary,₹ 107,25/6/2016,Delhi,,,,,,,,,
+99,Scale,Stationary,"₹ 4,243",26/6/2016,Madhya Pradesh,,,,,,,,,
+100,Compass,Stationary,"₹ 4,514",27/6/2016,Madhya Pradesh,,,,,,,,,
+101,Pen,Stationary,"₹ 5,480",2/7/2016,Madhya Pradesh,,,,,,,,,
+102,Scale,Stationary,"₹ 5,002",2/7/2016,Delhi,,,,,,,,,
+103,Scale,Stationary,"₹ 8,530",5/7/2016,West Bengal,,,,,,,,,
+104,Compass,Stationary,"₹ 4,819",7/7/2016,Tamilnadu,,,,,,,,,
+105,Compass,Stationary,"₹ 2,318",13/7/2016,Kerala,,,,,,,,,
+106,Compass,Stationary,₹ 220,20/7/2016,Kerala,,,,,,,,,
+107,Compass,Stationary,"₹ 6,341",20/7/2016,Tamilnadu,,,,,,,,,
+108,Pencil,Stationary,₹ 330,20/7/2016,Uttar Pradesh,,,,,,,,,
+109,Compass,Stationary,₹ 850,22/7/2016,Tamilnadu,,,,,,,,,
+110,Scale,Stationary,"₹ 8,986",23/7/2016,Kerala,,,,,,,,,
+111,Shoe,Footwear,"₹ 5,751",28/7/2016,Kerala,,,,,,,,,
+112,Pencil,Stationary,"₹ 1,704",29/7/2016,Kerala,,,,,,,,,
+113,Scale,Stationary,"₹ 7,966",30/7/2016,Telangana,,,,,,,,,
+114,Scale,Stationary,₹ 852,31/7/2016,Madhya Pradesh,,,,,,,,,
+115,Socks,Footwear,"₹ 8,416",31/7/2016,Telangana,,,,,,,,,
+116,Scale,Stationary,"₹ 7,144",1/8/2016,Delhi,,,,,,,,,
+117,Compass,Stationary,₹ 859,3/8/2016,Madhya Pradesh,,,,,,,,,
+118,Scale,Stationary,"₹ 2,836",13/8/2016,Uttar Pradesh,,,,,,,,,
+119,Shoe,Footwear,"₹ 1,743",19/8/2016,Madhya Pradesh,,,,,,,,,
+120,Pencil,Stationary,"₹ 3,844",23/8/2016,Delhi,,,,,,,,,
+121,Pencil,Stationary,"₹ 7,490",24/8/2016,Delhi,,,,,,,,,
+122,Pencil,Stationary,"₹ 7,333",27/8/2016,West Bengal,,,,,,,,,
+123,Shoe,Footwear,"₹ 7,654",28/8/2016,Madhya Pradesh,,,,,,,,,
+124,Pencil,Stationary,"₹ 3,944",29/8/2016,Kerala,,,,,,,,,
+125,Socks,Footwear,"₹ 5,761",29/8/2016,Uttar Pradesh,,,,,,,,,
+126,Scale,Stationary,"₹ 6,864",1/9/2016,Tamilnadu,,,,,,,,,
+127,Scale,Stationary,"₹ 4,016",1/9/2016,Uttar Pradesh,,,,,,,,,
+128,Scale,Stationary,"₹ 1,841",2/9/2016,Madhya Pradesh,,,,,,,,,
+129,Scale,Stationary,₹ 424,5/9/2016,Telangana,,,,,,,,,
+130,Scale,Stationary,"₹ 8,765",7/9/2016,Kerala,,,,,,,,,
+131,Scale,Stationary,"₹ 5,583",8/9/2016,Madhya Pradesh,,,,,,,,,
+132,Pencil,Stationary,"₹ 8,489",11/9/2016,Madhya Pradesh,,,,,,,,,
+133,Scale,Stationary,"₹ 7,090",11/9/2016,Delhi,,,,,,,,,
+134,Scale,Stationary,"₹ 7,880",15/9/2016,Madhya Pradesh,,,,,,,,,
+135,Compass,Stationary,"₹ 3,861",18/9/2016,Madhya Pradesh,,,,,,,,,
+136,Scale,Stationary,"₹ 6,162",20/9/2016,Madhya Pradesh,,,,,,,,,
+137,Pen,Stationary,"₹ 5,523",25/9/2016,Telangana,,,,,,,,,
+138,Shoe,Footwear,"₹ 7,251",26/9/2016,Uttar Pradesh,,,,,,,,,
+139,Compass,Stationary,"₹ 6,187",27/9/2016,Telangana,,,,,,,,,
+140,Scale,Stationary,"₹ 3,210",29/9/2016,Uttar Pradesh,,,,,,,,,
+141,Shoe,Footwear,₹ 682,29/9/2016,Uttar Pradesh,,,,,,,,,
+142,Scale,Stationary,₹ 793,3/10/2016,Telangana,,,,,,,,,
+143,Shoe,Footwear,"₹ 5,346",4/10/2016,Uttar Pradesh,,,,,,,,,
+144,Scale,Stationary,"₹ 7,103",7/10/2016,Tamilnadu,,,,,,,,,
+145,Shoe,Footwear,"₹ 4,603",10/10/2016,Madhya Pradesh,,,,,,,,,
+146,Pencil,Stationary,"₹ 8,160",16/10/2016,Delhi,,,,,,,,,
+147,Pencil,Stationary,"₹ 7,171",23/10/2016,Kerala,,,,,,,,,
+148,Scale,Stationary,"₹ 3,552",23/10/2016,Tamilnadu,,,,,,,,,
+149,Scale,Stationary,"₹ 7,273",25/10/2016,Telangana,,,,,,,,,
+150,Scale,Stationary,"₹ 2,402",26/10/2016,Uttar Pradesh,,,,,,,,,
+151,Scale,Stationary,"₹ 1,197",26/10/2016,Telangana,,,,,,,,,
+152,Socks,Footwear,"₹ 5,015",26/10/2016,Telangana,,,,,,,,,
+153,Compass,Stationary,"₹ 5,818",2/11/2016,Madhya Pradesh,,,,,,,,,
+154,Scale,Stationary,"₹ 4,399",3/11/2016,Kerala,,,,,,,,,
+155,Shoe,Footwear,"₹ 3,011",3/11/2016,Madhya Pradesh,,,,,,,,,
+156,Pencil,Stationary,"₹ 4,715",9/11/2016,Kerala,,,,,,,,,
+157,Pencil,Stationary,"₹ 5,321",12/11/2016,Delhi,,,,,,,,,
+158,Scale,Stationary,"₹ 8,894",15/11/2016,Madhya Pradesh,,,,,,,,,
+159,Shoe,Footwear,"₹ 4,846",25/11/2016,Kerala,,,,,,,,,
+160,Compass,Stationary,"₹ 8,283",26/11/2016,Kerala,,,,,,,,,
+161,Compass,Stationary,"₹ 9,990",28/11/2016,West Bengal,,,,,,,,,
+162,Scale,Stationary,"₹ 9,014",28/11/2016,Telangana,,,,,,,,,
+163,Pencil,Stationary,"₹ 1,942",29/11/2016,Delhi,,,,,,,,,
+164,Scale,Stationary,"₹ 7,223",30/11/2016,Madhya Pradesh,,,,,,,,,
+165,Shoe,Footwear,"₹ 4,673",2/12/2016,Madhya Pradesh,,,,,,,,,
+166,Shoe,Footwear,"₹ 9,104",4/12/2016,Delhi,,,,,,,,,
+167,Pencil,Stationary,"₹ 6,078",5/12/2016,Madhya Pradesh,,,,,,,,,
+168,Socks,Footwear,"₹ 3,278",6/12/2016,Uttar Pradesh,,,,,,,,,
+169,Scale,Stationary,₹ 136,12/12/2016,West Bengal,,,,,,,,,
+170,Scale,Stationary,"₹ 8,377",12/12/2016,Telangana,,,,,,,,,
+171,Scale,Stationary,"₹ 2,382",12/12/2016,Madhya Pradesh,,,,,,,,,
+172,Scale,Stationary,"₹ 8,702",15/12/2016,Uttar Pradesh,,,,,,,,,
+173,Scale,Stationary,"₹ 5,021",16/12/2016,Madhya Pradesh,,,,,,,,,
+174,Pencil,Stationary,"₹ 1,760",16/12/2016,Telangana,,,,,,,,,
+175,Scale,Stationary,"₹ 4,766",18/12/2016,Uttar Pradesh,,,,,,,,,
+176,Socks,Footwear,"₹ 1,541",19/12/2016,Kerala,,,,,,,,,
+177,Compass,Stationary,"₹ 2,782",20/12/2016,Kerala,,,,,,,,,
+178,Pencil,Stationary,"₹ 2,455",20/12/2016,West Bengal,,,,,,,,,
+179,Pencil,Stationary,"₹ 4,512",22/12/2016,Tamilnadu,,,,,,,,,
+180,Pencil,Stationary,"₹ 8,752",22/12/2016,Uttar Pradesh,,,,,,,,,
+181,Shoe,Footwear,"₹ 9,127",25/12/2016,Madhya Pradesh,,,,,,,,,
+182,Pencil,Stationary,"₹ 1,777",28/12/2016,Delhi,,,,,,,,,
+183,Socks,Footwear,₹ 680,28/12/2016,Delhi,,,,,,,,,
+184,Compass,Stationary,₹ 958,29/12/2016,Madhya Pradesh,,,,,,,,,
+185,Shoe,Footwear,"₹ 2,613",29/12/2016,Telangana,,,,,,,,,
+186,Shoe,Footwear,₹ 339,30/12/2016,Telangana,,,,,,,,,
